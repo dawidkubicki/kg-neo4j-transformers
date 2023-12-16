@@ -3,8 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Datasets
+dataset
+dataset/
+
 # C extensions
 *.so
+
+# Venv
+kg-env
+kg-env/
 
 # Distribution / packaging
 .Python
